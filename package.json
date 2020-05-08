@@ -15,5 +15,12 @@
   "bugs": {
     "url": "https://github.com/kallevikstyle/boilerplate-bootstrap-4/issues"
   },
-  "homepage": "https://github.com/kallevikstyle/boilerplate-bootstrap-4#readme"
+  "homepage": "https://github.com/kallevikstyle/boilerplate-bootstrap-4#readme",
+  "devDependencies": {
+    "grunt": "^1.1.0",
+    "grunt-contrib-watch": "^1.1.0",
+    "grunt-sass": "^3.1.0",
+    "load-grunt-tasks": "^5.1.0",
+    "node-sass": "^4.14.1"
+  }
 }
