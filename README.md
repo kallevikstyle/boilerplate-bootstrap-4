@@ -6,7 +6,7 @@ This is my basic boilerplate for creating a new project using Bootstrap 4 with G
 
 ## Get started
 1 - Click 'Use this template' on the repository page<br>
-* This will create a new repository with all the files from this template *
+> This will create a new repository with all the files from this template
 
 2 - Clone your newly created repository, navigate to your local folder and install Node packages
 ```
