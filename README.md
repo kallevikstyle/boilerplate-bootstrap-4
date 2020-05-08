@@ -14,7 +14,10 @@ npm install
 ```
 
 3 - Start grunt task
-type 'grunt' to start watching Sass files and compile CSS
+```
+grunt
+```
+It will now watch Sass files and compile CSS
 
 ## Requirements
 Node.js must be installed, and the Grunt command line must be globally installed.
