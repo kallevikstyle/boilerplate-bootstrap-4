@@ -4,10 +4,14 @@ This is my basic boilerplate for creating a new project using Bootstrap 4 with G
 
 ## Get started
 1 - Clone this repository
+```
 git clone https://github.com/kallevikstyle/boilerplate-bootstrap-4.git
+```
 
 2 - Navigate to local repository and install Node packages
+```
 npm install
+```
 
 3 - Start grunt task
 type 'grunt' to start watching Sass files and compile CSS
