@@ -15,14 +15,14 @@ git clone https://github.com/kallevikstyle/boilerplate-bootstrap-4.git
 npm install
 ```
 
-3 - Start grunt task
+3 - Start grunt task \*
 ```
 grunt
 ```
 It will now watch Sass files and compile CSS
 
 ## Requirements
-Node.js must be installed, and the Grunt command line must be globally installed.
+\* Node.js must be installed, and the Grunt command line must be globally installed.
 ```
 npm install -g grunt-cli
 ```
