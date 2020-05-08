@@ -21,4 +21,6 @@ It will now watch Sass files and compile CSS
 
 ## Requirements
 Node.js must be installed, and the Grunt command line must be globally installed.
+```
 npm install -g grunt-cli
+```
