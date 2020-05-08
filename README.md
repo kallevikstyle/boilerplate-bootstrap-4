@@ -5,7 +5,7 @@ This is my basic boilerplate for creating a new project using Bootstrap 4 with G
 
 
 ## Get started
-1 - Clone this repository, OR click 'Use this template' at the top of this page
+1 - Clone this repository, OR click 'Use this template' on the repository page
 ```
 git clone https://github.com/kallevikstyle/boilerplate-bootstrap-4.git
 ```
