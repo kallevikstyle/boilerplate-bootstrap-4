@@ -1,6 +1,8 @@
 # boilerplate-bootstrap-4
 
-This is my basic boilerplate for creating a new project using Bootstrap 4 with Grunt task manager and Sass.
+This is my basic boilerplate for creating a new project using Bootstrap 4 with Grunt task manager and Sass.<br>
+**Current Bootstrap version: 4.4.1**
+
 
 ## Get started
 1 - Clone this repository
