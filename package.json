@@ -2,20 +2,6 @@
   "name": "boilerplate-bootstrap-4",
   "version": "1.0.0",
   "description": "Boilerplate for Bootstrap 4 projects",
-  "main": "index.js",
-  "scripts": {
-    "test": "echo \"Error: no test specified\" && exit 1"
-  },
-  "repository": {
-    "type": "git",
-    "url": "git+https://github.com/kallevikstyle/boilerplate-bootstrap-4.git"
-  },
-  "author": "Asbjørn Kallevik",
-  "license": "ISC",
-  "bugs": {
-    "url": "https://github.com/kallevikstyle/boilerplate-bootstrap-4/issues"
-  },
-  "homepage": "https://github.com/kallevikstyle/boilerplate-bootstrap-4#readme",
   "devDependencies": {
     "grunt": "^1.1.0",
     "grunt-contrib-watch": "^1.1.0",
